@@ -1,0 +1,18 @@
+{
+  "start_cash": 10000.0,
+  "risk_fraction": 0.02,
+  "allow_multiple_positions": true,
+  "start_date": "2010-01-04",
+  "end_date": "2020-12-31",
+  "days": 4014,
+  "final_equity": 33481.32701427256,
+  "CAGR": 0.1162305499138816,
+  "Sharpe": 0.7188254262669899,
+  "MaxDD": -0.37883160329904586,
+  "n_trade_rows": 4674,
+  "n_buys": 2337,
+  "n_sells": 2285,
+  "n_liquidations": 52,
+  "liquidation_pnl": -264.1995654584462,
+  "universe_size": 282
+}
